@@ -20,6 +20,6 @@
   },
   "devDependencies": {
     "mocha": "^10.4.0"
-  },
-  "description": ""
+  }
+
 }
